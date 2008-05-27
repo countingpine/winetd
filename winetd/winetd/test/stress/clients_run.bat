@@ -1,0 +1,1 @@
+for /L %%j in (0,1,29) do start client.bat
