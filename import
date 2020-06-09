@@ -1,0 +1,1 @@
+./svn2github/svn2github.py --cache-dir ~/svn2github/cache/ import countingpine/winetd https://svn.code.sf.net/p/winetd/code/trunk
